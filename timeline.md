@@ -50,12 +50,12 @@ Reconquista Timeline
 
 # Kingdom of Castile
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
-- 1492 Castilla Granada, the final Muslim territory in Spain, is captured.
+- 01/1492 Castilla Granada, the final Muslim territory in Spain is captured
 
 # Kingdom of Aragon
 
 # Kingdom of Portugal
-- 1139-1185 Portugal Afonso I "O Conquistador"
+- 1139-1185 Portugal Alfonso I "El Conquistador"
 
 
 # Important Counts
