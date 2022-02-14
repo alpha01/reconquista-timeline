@@ -1,0 +1,61 @@
+Reconquista Timeline
+===============
+
+# Important Events
+- 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
+- 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
+- 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
+- 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established
+- 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
+- 778 ImportantEvents Battle of Roncevaux Pass, Rearguard of Charlemagne's ambushed; death of Frankish commander Roland
+- 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
+- 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans.
+- 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
+- 02/1212 ImportantEvents Battle of Las Navas de Tolosa
+- 1119 ImportantEvents Order of Solomon's Temple founded
+- 1157 ImportantEvents Order of Calatrava founded by St. Raymond of Fitero
+- 1170 ImportantEvents Order of Santiago founded by the Knights of Cáceres 
+- 07/1195 ImportantEvents Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
+
+
+# Al-Andalus
+- 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
+- 756-929 Andalus Emirate of Córdoba
+- 759 Andalus Muslim Narbonne conquered by the Franks
+- 1086 Andalus Almoravids enter the Iberian Peninsula
+
+# Kingdom of Asturias
+- 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
+- 722-737 Asturias Pelayo is elected King of Asturias. New Kingdom is established with its capital seat in Cangas de Onís
+- 737-739 Asturias Favila is elected King of Asturias
+- 739-757 Asturias Alfonso I "El Catolico" is elected King of Asturias
+- 757-768 Asturias Fruela I "El Cruel" is elected King of Asturias
+- 768 Asturias Fruela I Is assassinated in his own royal court
+- 768-774 Asturias Aurelio is elected King of Asturias
+- 774-783 Asturias Silo is elected King of Asturias
+- 783-789 Asturias Mauregato "El Usurpador" is elected King of Asturias
+- 788-791 Asturias Bermudo I "El Diacono" is elected King of Asturias
+- 791 Asturias Bermudo I renounces Asturian crown after the defeat in the Battle of the Burbia River
+- 791-842 Asturias Alfonso II "El Casto" is elected king of Asturias
+- 797 Asturias Alfonso II sacks Lisbon
+- 842-850 Asturias Ramiro I
+- 850-866 Asturias Ordoño
+- 866-910 Asturias Alfonso III "El Magno"
+- 910-924 Asturias Fruela III "El Leproso"
+
+
+# Kingdom of Navarra
+
+# Kingdom of Leon
+
+# Kingdom of Castile
+- 05/1487-08/1487 Castilla Málaga is captured after a three month siege
+- 1492 Castilla Granada, the final Muslim territory in Spain, is captured.
+
+# Kingdom of Aragon
+
+# Kingdom of Portugal
+- 1139-1185 Portugal Afonso I "O Conquistador"
+
+
+# Important Counts
