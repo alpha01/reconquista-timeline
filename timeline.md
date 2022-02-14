@@ -36,7 +36,7 @@ Reconquista Timeline
 - 783-789 Asturias Mauregato "El Usurpador" is elected King of Asturias
 - 788-791 Asturias Bermudo I "El Diacono" is elected King of Asturias
 - 791 Asturias Bermudo I renounces Asturian crown after the defeat in the Battle of the Burbia River
-- 791-842 Asturias Alfonso II "El Casto" is elected king of Asturias
+- 791-842 Asturias Alfonso II "El Casto" is elected King of Asturias
 - 797 Asturias Alfonso II sacks Lisbon
 - 842-850 Asturias Ramiro I
 - 850-866 Asturias Ordoño
@@ -55,7 +55,7 @@ Reconquista Timeline
 # Kingdom of Aragon
 
 # Kingdom of Portugal
-- 1139-1185 Portugal Alfonso I "El Conquistador"
+- 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 
 
 # Important Counts
