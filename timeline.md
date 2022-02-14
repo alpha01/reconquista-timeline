@@ -5,16 +5,16 @@ Reconquista Timeline
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
 - 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
 - 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
-- 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established
+- 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established in Baghdad
 - 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
-- 778 ImportantEvents Battle of Roncevaux Pass, Rearguard of Charlemagne's ambushed; death of Frankish commander Roland
+- 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
 - 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans.
 - 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
 - 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1157 ImportantEvents Order of Calatrava founded by St. Raymond of Fitero
-- 1170 ImportantEvents Order of Santiago founded by the Knights of Cáceres 
+- 1170 ImportantEvents Order of Santiago founded by the Knights of Cáceres
 - 07/1195 ImportantEvents Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
 
 
