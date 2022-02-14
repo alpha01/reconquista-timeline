@@ -9,7 +9,8 @@ Reconquista Timeline
 - 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
-- 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans.
+- 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans
+- 800 ImportantEvents Charlemagne is crowned as “emperor of the Romans”
 - 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
 - 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
@@ -45,6 +46,7 @@ Reconquista Timeline
 
 
 # Kingdom of Navarra
+- 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 
 # Kingdom of Leon
 

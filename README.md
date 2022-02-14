@@ -2,7 +2,7 @@
 
 https://alpha01.github.io/reconquista-timeline/
 
-This app is a slightly modification of [cheeaun/life](https://github.com/cheeaun/life). It uses the same configuration, with additional mandatory fields needed for [custom event styling](./timeline.css).
+This app is a small forked version of [cheeaun/life](https://github.com/cheeaun/life). It uses the same configuration, with additional mandatory fields needed for [custom event styling](./timeline.css).
 
 
 Development
