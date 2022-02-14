@@ -10,7 +10,7 @@ Reconquista Timeline
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
 - 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans
-- 800 ImportantEvents Charlemagne is crowned as “emperor of the Romans”
+- 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans”
 - 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
 - 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
@@ -19,13 +19,13 @@ Reconquista Timeline
 - 07/1195 ImportantEvents Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
 
 
-# Al-Andalus
+# Al-Andalus (711-1492)
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
 - 756-929 Andalus Emirate of Córdoba
 - 759 Andalus Muslim Narbonne conquered by the Franks
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 
-# Kingdom of Asturias
+# Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
 - 722-737 Asturias Pelayo is elected King of Asturias. New Kingdom is established with its capital seat in Cangas de Onís
 - 737-739 Asturias Favila is elected King of Asturias
@@ -45,19 +45,22 @@ Reconquista Timeline
 - 910-924 Asturias Fruela III "El Leproso"
 
 
-# Kingdom of Navarra
+# Kingdom of Pamplona / Navarra (824-1492)
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 
-# Kingdom of Leon
+# Kingdom of Leon / Galicia (910-1230)
 
-# Kingdom of Castile
+# Kingdom of Castile (1065-1230)
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
 - 01/1492 Castilla Granada, the final Muslim territory in Spain is captured
 
-# Kingdom of Aragon
+# Crown of Castile (1230-1492)
+
+# Catalan Counties (?-1165)
+
+# Kingdom of Aragon (1035-1165)
+
+# Crown of Aragon (1165-1492)
 
 # Kingdom of Portugal
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
-
-
-# Important Counts
