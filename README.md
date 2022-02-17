@@ -10,6 +10,7 @@ Development
 
 ```bash
 docker run --rm -d --name timeline -p 8080:80 -v $PWD:/usr/share/nginx/html nginx:1.21.6-alpine
+open http://localhost:8080
 ```
 
 License
