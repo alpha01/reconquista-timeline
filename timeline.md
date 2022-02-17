@@ -67,7 +67,7 @@ Reconquista Timeline
 
 # Kingdom of Aragon (1035-1165)
 - 1096 Aragon Huesca is captured by Pedro I
-- 1118 Aragorn Alfonso I captures the city of Zaragoze with the aid of crusaders
+- 1118 Aragon Alfonso I captures the city of Zaragoze with the aid of crusaders
 - 1120 Aragon Battle of Cutanda, Aragonese victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
 - 1134 Aragon Alfonso I dies. Bequeath's the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
