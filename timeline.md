@@ -76,8 +76,8 @@ Reconquista Timeline
 - 1134 Aragon Alfonso I dies. Bequeath's the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
 - 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
-- 1137 Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
-- 1137 Ramiro II of Aragon gives full military control to Ramon Berenguer IV of Barcelona who is now Prince of Aragon
+- 1137 Aragon Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
+- 1137 Aragon Ramiro II of Aragon gives full military control to Ramon Berenguer IV of Barcelona who is now Prince of Aragon
 
 
 # Crown of Aragon (1165-1492)
