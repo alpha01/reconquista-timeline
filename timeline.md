@@ -2,6 +2,8 @@ Reconquista Timeline
 ===============
 
 # Important Events
+- 702 ImportantEvents Witiza is elected King of the Visigoths
+- 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. By passing Visigoth customs, resulting in political unrest
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
 - 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
 - 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
@@ -14,7 +16,7 @@ Reconquista Timeline
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
 - 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans
-- 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans”
+- 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
 - 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
 - 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
@@ -36,6 +38,7 @@ Reconquista Timeline
 - 739-757 Asturias Alfonso I "El Catolico" is elected King of Asturias
 - ~740 Asturias Alfonso I fierce campaigns of desolation between the Asturian/Cantabrian mountains and Duero River create the "Desert of Duero"
 - 757-768 Asturias Fruela I "El Cruel" is elected King of Asturias
+- 759 Asturias The city of Oviedo is established by Fruela I
 - 768 Asturias Fruela I Is assassinated in his own royal court
 - 768-774 Asturias Aurelio is elected King of Asturias
 - 774-783 Asturias Silo is elected King of Asturias
@@ -67,6 +70,7 @@ Reconquista Timeline
 # Crown of Castile (1230-1492)
 
 # Catalan Counties (?-1165)
+- 785 Catalonia Charlemagne captures the city of Girona
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
 - 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
 
