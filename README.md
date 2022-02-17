@@ -24,6 +24,7 @@ Resources
 * [The life of the very noble King of Castile and León, Saint Ferdinand III](https://www.amazon.com/noble-Castile-Leo%CC%81n-Saint-Ferdinand/dp/B0006ELHZ2)
 * [Isabella Of Spain: The Last Crusader](https://www.amazon.com/Isabella-Spain-William-Thomas-Walsh-ebook/dp/B01JHP4H0C)
 * [Isabella: The Warrior Queen ](https://www.amazon.com/Isabella-Warrior-Queen-Kirstin-Downey/dp/0307742164)
+* [First Templar Nation](https://www.amazon.com/First-Templar-Nation-Knights-Created/dp/1620556545)
 * [La Gran aventura del reino de Asturias](https://www.amazon.com/gp/product/B00692A95O)
 * [Moros y cristianos: la gran aventura de la España medieval](https://www.amazon.com/Moros-cristianos-aventura-medieval-Divulgativa-ebook/dp/B005Z9N9JK)
 * [¡Santiago y cierra, España!](https://www.amazon.com/gp/product/B00F35II1U)
