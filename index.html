@@ -324,7 +324,7 @@ h1{
 				d.text = d.text.replace(link[0], "<a href='" + link[2] + "'" + link_attr + ">" + link[1] + "</a>");
 			}
 
-			var topic_match = d.text.match(/^(ImportantEvents|Andalus|Asturias|Aragon|Castilla|Navarra|Portugal)\s(.*)/);
+			var topic_match = d.text.match(/^(ImportantEvents|Andalus|Asturias|Leon|Aragon|Castilla|Navarra|Portugal)\s(.*)/);
 			var topic = topic_match[1];
 			var new_text = topic_match[2];
 

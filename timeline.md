@@ -49,7 +49,7 @@ Reconquista Timeline
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 
 # Kingdom of Leon / Galicia (910-1230)
-- 1085 Alfonso IV Captures the important city of Toledo
+- 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 
 # Kingdom of Castile (1065-1230)
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
