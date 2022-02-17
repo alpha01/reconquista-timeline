@@ -53,7 +53,9 @@ Reconquista Timeline
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 
 # Kingdom of Leon / Galicia (910-1230)
+- 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
+- 1147 Leon Siege of Almería, city if captured by Alfonso VII with the aid of crusaders
 
 # Kingdom of Castile (1065-1230)
 - 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
@@ -64,6 +66,7 @@ Reconquista Timeline
 
 # Catalan Counties (?-1165)
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
+- 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
 
 # Kingdom of Aragon (1035-1165)
 - 1096 Aragon Huesca is captured by Pedro I
@@ -71,7 +74,10 @@ Reconquista Timeline
 - 1120 Aragon Battle of Cutanda, Aragonese victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
 - 1134 Aragon Alfonso I dies. Bequeath's the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
-- 1136 Aragon Princess Petronila of Aragorn is born
+- 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King
+- 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
+- 1137 Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
+- 1137 Ramiro II of Aragon gives full military control to Ramon Berenguer IV of Barcelona who is now Prince of Aragon
 
 
 # Crown of Aragon (1165-1492)
