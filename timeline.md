@@ -5,7 +5,11 @@ Reconquista Timeline
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
 - 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
 - 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
+- 737 ImportantEvents Siege of Avignon, Charles Martel captures the city of Avignon in Provence
+- 737 ImportantEvents Siege of Narbonne, Charles Martel fails to capture Narbonne from the Umayyads
+- 737 ImportantEvents Battle of the River Berre, Charles Martel defeats Andalusian army sent to relieve the Siege of Narbonne in Septimania
 - 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established in Baghdad
+- 750 ImportantEvents Great pleague affects all of Spain
 - 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
@@ -16,7 +20,6 @@ Reconquista Timeline
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1157 ImportantEvents Order of Calatrava founded by St. Raymond of Fitero
 - 1170 ImportantEvents Order of Santiago founded by the Knights of Cáceres
-- 07/1195 ImportantEvents Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
 
 
 # Al-Andalus (711-1492)
@@ -30,6 +33,7 @@ Reconquista Timeline
 - 722-737 Asturias Pelayo is elected King of Asturias. New Kingdom is established with its capital seat in Cangas de Onís
 - 737-739 Asturias Favila is elected King of Asturias
 - 739-757 Asturias Alfonso I "El Catolico" is elected King of Asturias
+- ~740 Asturias Alfonso I fierce campaigns of desolation between the Asturian/Cantabrian mountains and Duero River create the "Desert of Duero"
 - 757-768 Asturias Fruela I "El Cruel" is elected King of Asturias
 - 768 Asturias Fruela I Is assassinated in his own royal court
 - 768-774 Asturias Aurelio is elected King of Asturias
@@ -52,18 +56,27 @@ Reconquista Timeline
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 
 # Kingdom of Castile (1065-1230)
+- 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
 - 01/1492 Castilla Granada, the final Muslim territory in Spain is captured
 
 # Crown of Castile (1230-1492)
 
 # Catalan Counties (?-1165)
+- 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
 
 # Kingdom of Aragon (1035-1165)
+- 1096 Aragon Huesca is captured by Pedro I
+- 1118 Aragorn Alfonso I captures the city of Zaragoze with the aid of crusaders
+- 1120 Aragon Battle of Cutanda, Aragonese victory. Muslims fail to recapture Zaragoza
+- 1120 Aragon Alfonso I captures the city of Calatayud
+- 1134 Aragon Alfonso I dies. Bequeath's the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
+- 1136 Aragon Princess Petronila of Aragorn is born
+
 
 # Crown of Aragon (1165-1492)
 
-# Kingdom of Portugal
-- 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeated armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
+# Kingdom of Portugal (1128-1492)
+- 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguse victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal

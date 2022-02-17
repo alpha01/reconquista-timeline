@@ -3,7 +3,8 @@
 #life .Asturias .time { border: 4px solid hsl(202, 70%, 49%) !important }
 #life .Leon .time { border: 4px solid hsl(140, 49%, 42%) !important }
 #life .Castilla .time { border: 4px solid #CD5454   !important }
-#life .Aragon .time { border: 4px solid hsl(56, 95%, 49%) !important }
+#life .Catalonia .time { border: 4px solid hsl(56, 95%, 49%) !important }
+#life .Aragon .time { border: 4px solid hsl(290, 92%, 33%) !important }
 #life .Portugal .time { border: 4px solid #ffffff !important }
 
 header a img { display: none; }
