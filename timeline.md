@@ -49,6 +49,7 @@ Reconquista Timeline
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 
 # Kingdom of Leon / Galicia (910-1230)
+- 1085 Alfonso IV Captures the important city of Toledo
 
 # Kingdom of Castile (1065-1230)
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
@@ -63,4 +64,6 @@ Reconquista Timeline
 # Crown of Aragon (1165-1492)
 
 # Kingdom of Portugal
+- 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeated armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
+- 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguse victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
