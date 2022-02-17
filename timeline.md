@@ -50,13 +50,14 @@ Reconquista Timeline
 - 910-924 Asturias Fruela III "El Leproso"
 
 
-# Kingdom of Pamplona / Navarra (824-1492)
+# Kingdom of Pamplona / Najera / Navarra (824-1492)
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
+- 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
 # Kingdom of Leon / Galicia (910-1230)
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
-- 1147 Leon Siege of Almería, city if captured by Alfonso VII with the aid of crusaders
+- 1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of crusaders
 
 # Kingdom of Castile (1065-1230)
 - 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
@@ -71,11 +72,11 @@ Reconquista Timeline
 
 # Kingdom of Aragon (1035-1165)
 - 1096 Aragon Huesca is captured by Pedro I
-- 1118 Aragon Alfonso I captures the city of Zaragoze with the aid of crusaders
+- 1118 Aragon Alfonso I captures the city of Zaragoza with the aid of crusaders
 - 1120 Aragon Battle of Cutanda, Aragonese victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
-- 1134 Aragon Alfonso I dies. Bequeath's the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
-- 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King
+- 1134 Aragon Alfonso I dies. Bequeaths the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
+- 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King of Aragon
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
 - 1137 Aragon Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
 - 1137 Aragon Ramiro II of Aragon gives full military control to Ramon Berenguer IV of Barcelona who is now Prince of Aragon
