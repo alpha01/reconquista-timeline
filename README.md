@@ -21,7 +21,7 @@ Resources
 * [The Book of Deeds of James I of Aragon: A Translation of the Medieval Catalan Llibre dels Fets](https://www.amazon.com/Deeds-James-Aragon-Crusade-Translation/dp/1409401502)
 * [The Crusader Kingdom of Valencia](https://libro.uca.edu/ck/crusader.htm)
 * [Saint Fernando III: A Kingdom for Christ](https://www.amazon.com/Saint-Fernando-III-Kingdom-Christ/dp/0979630118)
-* [The life of the very noble King of Castile and León, Saint Ferdinand III](https://www.amazon.com/noble-Castile-Leo%CC%81n-Saint-Ferdinand/dp/B0006ELHZ2)
+* [The life of the very noble King of Castile and León, Saint Ferdinand III](https://www.amazon.com/Life-Very-Noble-Castile-Ferdinand/dp/1877905097)
 * [Isabella Of Spain: The Last Crusader](https://www.amazon.com/Isabella-Spain-William-Thomas-Walsh-ebook/dp/B01JHP4H0C)
 * [Isabella: The Warrior Queen ](https://www.amazon.com/Isabella-Warrior-Queen-Kirstin-Downey/dp/0307742164)
 * [First Templar Nation](https://www.amazon.com/First-Templar-Nation-Knights-Created/dp/1620556545)
