@@ -3,7 +3,7 @@ Reconquista Timeline
 
 # Important Events
 - 702 ImportantEvents Witiza is elected King of the Visigoths
-- 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. By passing Visigoth customs, resulting in political unrest
+- 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. Bypassing Visigothic customs, resulting in political unrest
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
 - 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
 - 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
