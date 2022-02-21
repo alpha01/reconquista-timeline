@@ -77,9 +77,9 @@ Reconquista Timeline
 # Kingdom of Aragon (1035-1165)
 - 1096 Aragon Huesca is captured by Pedro I
 - 1118 Aragon Alfonso I captures the city of Zaragoza with the aid of crusaders
-- 1120 Aragon Battle of Cutanda, Aragonese victory. Muslims fail to recapture Zaragoza
+- 1120 Aragon Battle of Cutanda, Aragonese crusader victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
-- 1134 Aragon Alfonso I dies. Bequeaths the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher.
+- 1134 Aragon Alfonso I dies. Bequeaths the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher
 - 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King of Aragon
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
 - 1137 Aragon Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
@@ -90,5 +90,5 @@ Reconquista Timeline
 
 # Kingdom of Portugal (1128-1492)
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
-- 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguse victory. Five Moorish kings slained
+- 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
