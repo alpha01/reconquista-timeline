@@ -16,8 +16,9 @@ Reconquista Timeline
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
 - 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans
+- 793-794 ImportantEvents Cordoba launches successful military campaign against the Franks in Septimania
 - 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
-- 813 ImportantEvents St. James the apostle's tomb discovered in Galicia
+- 813 ImportantEvents St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
 - 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1157 ImportantEvents Order of Calatrava founded by St. Raymond of Fitero
@@ -54,6 +55,7 @@ Reconquista Timeline
 
 
 # Kingdom of Pamplona / Najera / Navarra (824-1492)
+- 816 Navarra Battle of Rio Orion, Muslim victory after thirteen days of battle. Military lost results in political victory for the Iñigo's over the Velasco's
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
@@ -71,6 +73,7 @@ Reconquista Timeline
 
 # Catalan Counties (?-1165)
 - 785 Catalonia Charlemagne captures the city of Girona
+- 801 Catalonia Louis the Pious captures the city of Barcelona
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
 - 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
 
