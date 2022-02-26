@@ -26,8 +26,9 @@ Reconquista Timeline
 
 
 # Al-Andalus (711-1492)
+- 714 Andalus Umayyad conquest of Hispania, city of Toledo falls.
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
-- 756-929 Andalus Emirate of Córdoba established by Umayyad prince Abd al-Rahman I
+- 756-929 Andalus Emirate of Córdoba established by exiled Umayyad prince Abd al-Rahman I
 - 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba
 - 759 Andalus Muslim Narbonne conquered by the Franks
 - 1086 Andalus Almoravids enter the Iberian Peninsula
