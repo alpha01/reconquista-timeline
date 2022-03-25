@@ -35,7 +35,7 @@ Reconquista Timeline
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
-- 722-737 Asturias Pelayo is elected King of Asturias. New Kingdom is established with its capital seat in Cangas de Onís
+- 722-737 Asturias Pelayo is elected King of Asturias. New kingdom is established with its capital seat in Cangas de Onís
 - 737-739 Asturias Favila is elected King of Asturias
 - 739-757 Asturias Alfonso I "El Catolico" is elected King of Asturias
 - ~740 Asturias Alfonso I fierce campaigns of desolation between the Asturian/Cantabrian mountains and Duero River create the "Desert of Duero"
@@ -58,10 +58,13 @@ Reconquista Timeline
 # Kingdom of Pamplona / Najera / Navarra (824-1492)
 - 816 Navarra Battle of Rio Orion, Muslim victory after thirteen days of battle. Military lost results in political victory for the Iñigo's over the Velasco's
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
+- 1000-1035 Navarra Sancho III "El Mayor" Becomes King of Navarra
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
-# Kingdom of Leon / Galicia (910-1230)
+# Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
+- 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
+- 1065-1109 Leon Alfonso VI "El Bravo" becomes the King of León
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 - 1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of crusaders
 
@@ -79,7 +82,11 @@ Reconquista Timeline
 - 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
 
 # Kingdom of Aragon (1035-1165)
+- 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
+- 1063-1094 Aragon Sancho I Ramirez becomes King of Aragon
+- 1094-1104 Aragon Pedro I becomes King of Aragon
 - 1096 Aragon Huesca is captured by Pedro I
+- 1104-1134 Aragon Alfonso I "El Batallador" becomes King of Aragon
 - 1118 Aragon Alfonso I captures the city of Zaragoza with the aid of crusaders
 - 1120 Aragon Battle of Cutanda, Aragonese crusader victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
@@ -87,7 +94,7 @@ Reconquista Timeline
 - 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King of Aragon
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
 - 1137 Aragon Petronila of Aragon betrothed to Ramon Berenguer IV of Barcelona
-- 1137 Aragon Ramiro II of Aragon gives full military control to Ramon Berenguer IV of Barcelona who is now Prince of Aragon
+- 1137 Aragon Ramiro II of Aragon gives full military control to Count Ramon Berenguer IV of Barcelona who is now Prince of Aragon
 
 
 # Crown of Aragon (1165-1492)
