@@ -1,11 +1,13 @@
 #life .ImportantEvents .time { border: 4px solid hsl(221, 91%, 32%) !important }
 #life .Andalus .time { border: 4px solid hsl(0, 0%, 0%) !important }
 #life .Asturias .time { border: 4px solid hsl(202, 70%, 49%) !important }
-#life .Leon .time { border: 4px solid hsl(140, 49%, 42%) !important }
+#life .Leon .time { border: 4px solid hsl(165, 49%, 42%) !important }
 #life .Castilla .time { border: 4px solid #CD5454   !important }
 #life .Catalonia .time { border: 4px solid hsl(56, 95%, 49%) !important }
 #life .Aragon .time { border: 4px solid hsl(290, 92%, 33%) !important }
 #life .Portugal .time { border: 4px solid #ffffff !important }
+#life .CrownOfCastile .time { border: 4px solid #befa6bc2 !important }
+#life .CrownOfAragon .time { border: 4px solid #f7bf08 !important }
 
 header a img { display: none; }
 header a:hover img { display: inline; }
