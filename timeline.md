@@ -58,7 +58,7 @@ Reconquista Timeline
 # Kingdom of Pamplona / Najera / Navarra (824-1492)
 - 816 Navarra Battle of Rio Orion, Muslim victory after thirteen days of battle. Military lost results in political victory for the Iñigo's over the Velasco's
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
-- 1000-1035 Navarra Sancho III "El Mayor" Becomes King of Navarra
+- 1000-1035 Navarra Sancho III "El Mayor" becomes King of Navarra
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
@@ -78,6 +78,7 @@ Reconquista Timeline
 # Catalan Counties (?-1165)
 - 785 Catalonia Charlemagne captures the city of Girona
 - 801 Catalonia Louis the Pious captures the city of Barcelona
+- 1035-1076 Catalonia Ramon Berenguer I becomes Count of Barcelona
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
 - 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
 
@@ -98,6 +99,9 @@ Reconquista Timeline
 
 
 # Crown of Aragon (1165-1492)
+- 1162-1196 CrownOfAragon Son of Petronila of Aragon and Ramon Berenguer IV of Barcelona, Alfonso II "El Trovador" becomes King of Aragon and Count of Barcelona. The Crown of Aragon is born
+- 1196-1213 CrownOfAragon Pedro II "El Catolico" becomes King of Aragon
+- 1213-1276 CrownOfAragon Jaime I "El Conquistador" becomes King of Aragon
 
 # Kingdom of Portugal (1128-1492)
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
