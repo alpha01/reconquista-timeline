@@ -118,7 +118,7 @@ Reconquista Timeline
 - 1162-1196 CrownOfAragon Son of Petronila of Aragon and Ramon Berenguer IV of Barcelona, Alfonso II "El Trovador" becomes King of Aragon and Count of Barcelona. The Crown of Aragon is born
 - 1196-1213 CrownOfAragon Pedro II "El Catolico" becomes King of Aragon
 - 1213-1276 CrownOfAragon Jaime I "El Conquistador" becomes King of Aragon
-- 1228 CrownOfAragon Jamime I aquires the County of Urgell, unifiying all Catalan counties in Spain
+- 1228 CrownOfAragon Jaime I acquires the County of Urgell, unifiying all Catalan counties in Spain
 - 1229 CrownOfAragon Jaime I captures the Balearic Island of Mallorca. Aragon's expansion into the Mediterranean begins
 - 1231 CrownOfAragon Balearic Island of Menorca becomes tributary state to Jaime I of Aragon
 - 1232 CrownOfAragon Hugo de Follalquer, Grandmaster of the Knights Hospitaller in Aragon convinces Jaime I to conquer the Kingdom of Valencia. Crusade to conquer Valencia begin
