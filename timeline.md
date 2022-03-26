@@ -29,9 +29,11 @@ Reconquista Timeline
 - 714 Andalus Umayyad conquest of Hispania, city of Toledo falls.
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
 - 756-929 Andalus Emirate of Córdoba established by exiled Umayyad prince Abd al-Rahman I
-- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba
 - 759 Andalus Muslim Narbonne conquered by the Franks
+- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba
+- 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
+- 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
@@ -59,13 +61,17 @@ Reconquista Timeline
 - 816 Navarra Battle of Rio Orion, Muslim victory after thirteen days of battle. Military lost results in political victory for the Iñigo's over the Velasco's
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 - 1000-1035 Navarra Sancho III "El Mayor" becomes King of Navarra
+- 1035-1054 Navarra García Sánchez III "García el de Nájera" becomes King of Navarra
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
+- 1055 Leon Cities of Lamego and Viseu are captured by Fernando I of León
+- 1064 Leon City of Coimbra is captured by Fernando I of León, extending Portuguese frontier
 - 1065-1109 Leon Alfonso VI "El Bravo" becomes the King of León
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
+- 1085 Leon Alfonso VI of León and Castile proclaims himself "Emperor of Spain"
 - 1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of crusaders
 
 # Kingdom of Castile (1065-1230)
@@ -74,6 +80,10 @@ Reconquista Timeline
 - 01/1492 Castilla Granada, the final Muslim territory in Spain is captured
 
 # Crown of Castile (1230-1492)
+- 1252-1284 CrownOfCastile Alfonso X "El Sabio" becomes King of Castile and León
+- 1284-1292 CrownOfCastile Sancho IV becomes King of Castile and León
+- 1292-1312 CrownOfCastile Fernando IV becomes King of Castile and León
+- 1312-1350 CrownOfCastile Alfonso XI becomes King of Castile and León
 
 # Catalan Counties (?-1165)
 - 785 Catalonia Charlemagne captures the city of Girona
