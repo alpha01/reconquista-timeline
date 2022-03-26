@@ -34,7 +34,6 @@ Reconquista Timeline
 - 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
-- 1121–1269 Andalus Ibn Tumart establishes the Almohad movement. Abd al-Mu'min becomes the first caliph, the capital of the Caliphate is set in Marrakesh
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
