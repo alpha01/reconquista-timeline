@@ -81,11 +81,13 @@ Reconquista Timeline
 - 05/1487-08/1487 Castilla Málaga is captured after a three month siege
 - 01/1492 Castilla Granada, the final Muslim territory in Spain is captured
 
+
 # Crown of Castile (1230-1492)
 - 1252-1284 CrownOfCastile Alfonso X "El Sabio" becomes King of Castile and León
 - 1284-1292 CrownOfCastile Sancho IV becomes King of Castile and León
 - 1292-1312 CrownOfCastile Fernando IV becomes King of Castile and León
 - 1312-1350 CrownOfCastile Alfonso XI becomes King of Castile and León
+
 
 # Catalan Counties (?-1165)
 - 785 Catalonia Charlemagne captures the city of Girona
@@ -94,6 +96,7 @@ Reconquista Timeline
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
 - 12/1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of Genoese crusaders
 - 1149 Catalonia The city of Lérida is captured by Berenguer IV of Barcelona. Completing conquest of entire river valley
+
 
 # Kingdom of Aragon (1035-1165)
 - 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
@@ -115,6 +118,10 @@ Reconquista Timeline
 - 1162-1196 CrownOfAragon Son of Petronila of Aragon and Ramon Berenguer IV of Barcelona, Alfonso II "El Trovador" becomes King of Aragon and Count of Barcelona. The Crown of Aragon is born
 - 1196-1213 CrownOfAragon Pedro II "El Catolico" becomes King of Aragon
 - 1213-1276 CrownOfAragon Jaime I "El Conquistador" becomes King of Aragon
+- 1228 CrownOfAragon Jamime I aquires the County of Urgell, unifiying all Catalan counties in Spain
+- 1229 CrownOfAragon Jaime I captures the Balearic Island of Mallorca. Aragon's expansion into the Mediterranean begins
+- 1231 CrownOfAragon Balearic Island of Menorca becomes tributary state to Jaime I of Aragon
+- 1232 CrownOfAragon Hugo de Follalquer, Grandmaster of the Knights Hospitaller in Aragon convinces Jaime I to conquer the Kingdom of Valencia. Crusade to conquer Valencia begin
 
 # Kingdom of Portugal (1128-1492)
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
