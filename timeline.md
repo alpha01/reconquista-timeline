@@ -11,7 +11,7 @@ Reconquista Timeline
 - 737 ImportantEvents Siege of Narbonne, Charles Martel fails to capture Narbonne from the Umayyads
 - 737 ImportantEvents Battle of the River Berre, Charles Martel defeats Andalusian army sent to relieve the Siege of Narbonne in Septimania
 - 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established in Baghdad
-- 750 ImportantEvents Great pleague affects all of Spain
+- 750 ImportantEvents Great plague affects all of Spain
 - 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
 - 778 ImportantEvents Battle of Roncevaux Pass, rearguard of Charlemagne's army is ambushed; death of Frankish commander Roland
 - 791 ImportantEvents Battle of the Burbia River, Umayyad Cordovans defeated the Asturians
@@ -30,10 +30,11 @@ Reconquista Timeline
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
 - 756-929 Andalus Emirate of Córdoba established by exiled Umayyad prince Abd al-Rahman I
 - 759 Andalus Muslim Narbonne conquered by the Franks
-- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba
+- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba in Spain
 - 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
+- 1121–1269 Andalus Ibn Tumart establishes the Almohad movement. Abd al-Mu'min becomes the first caliph, the capital of the Caliphate is set in Marrakesh
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
