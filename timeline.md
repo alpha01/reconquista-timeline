@@ -30,10 +30,11 @@ Reconquista Timeline
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
 - 756-929 Andalus Emirate of Córdoba established by exiled Umayyad prince Abd al-Rahman I
 - 759 Andalus Muslim Narbonne conquered by the Franks
-- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba
+- 929-1031 Andalus Abd al-Rahman III proclaims himself caliph and establishes the Caliphate of Córdoba in Spain
 - 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
+- 1121–1269 Andalus Ibn Tumart establishes the Almohad movement. Abd al-Mu'min becomes the first caliph, the capital of the Caliphate is set in Marrakesh
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
@@ -67,12 +68,14 @@ Reconquista Timeline
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
+- 09/1037 Leon Battle of Tamarón, Castilian forces under Count Fernando I defeat the Leonese forces. King Bermudo III of León is killed in battle. With no heir to the Leonese crown, kingship is passed to his sister Sancha of León, wife to Fernando I of Castile, thus Fernando I becomes King of León
+- 1055 Leon Fernando I becomes the first Christian monarch to impose "parias" tribute onto Muslim taifas
 - 1055 Leon Cities of Lamego and Viseu are captured by Fernando I of León
 - 1064 Leon City of Coimbra is captured by Fernando I of León, extending Portuguese frontier
 - 1065-1109 Leon Alfonso VI "El Bravo" becomes the King of León
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 - 1085 Leon Alfonso VI of León and Castile proclaims himself "Emperor of Spain"
-- 1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of crusaders
+- 10/1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of Catalan and Genoese crusaders
 
 # Kingdom of Castile (1065-1230)
 - 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
@@ -90,7 +93,8 @@ Reconquista Timeline
 - 801 Catalonia Louis the Pious captures the city of Barcelona
 - 1035-1076 Catalonia Ramon Berenguer I becomes Count of Barcelona
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
-- 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
+- 12/1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of Genoese crusaders
+- 1149 Catalonia The city of Lérida is captured by Berenguer IV of Barcelona. Completing conquest of entire river valley
 
 # Kingdom of Aragon (1035-1165)
 - 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
@@ -117,3 +121,4 @@ Reconquista Timeline
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
+- 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
