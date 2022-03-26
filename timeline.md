@@ -128,3 +128,6 @@ Reconquista Timeline
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
+- 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
+- 1184 Portugal Battle of Santarém, Portuguese and Leonese forces of Ferdinand II of León and Alfonso I of Portugal defeat the Almohads, Caliph Abu Yaqub Yusuf is killed in battle
+ 
