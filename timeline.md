@@ -90,7 +90,8 @@ Reconquista Timeline
 - 801 Catalonia Louis the Pious captures the city of Barcelona
 - 1035-1076 Catalonia Ramon Berenguer I becomes Count of Barcelona
 - 1114 Catalonia Crusade led by Catalan and Pisans capture the Balearic Islands, the crusaders would abandoned the conquered territory months later
-- 1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of crusaders
+- 12/1148 Catalonia The city of Tortosa is captured by Berenguer IV of Barcelona with the aid of Genoese crusaders
+- 1149 Catalonia The city of Lérida is captured by Berenguer IV of Barcelona. Completing conquest of entire river valley
 
 # Kingdom of Aragon (1035-1165)
 - 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
@@ -117,3 +118,4 @@ Reconquista Timeline
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
+- 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
