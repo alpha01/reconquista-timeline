@@ -68,7 +68,6 @@ Reconquista Timeline
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
-- 09/1037 Leon Battle of Tamarón, Castilian forces under Count Fernando I defeat the Leonese forces. King Bermudo III of León is killed in battle. With no heir to the Leonese crown, kingship is passed to his sister Sancha of León, wife to Fernando I of Castile, thus Fernando I becomes King of León
 - 1055 Leon Fernando I becomes the first Christian monarch to impose "parias" tribute onto Muslim taifas
 - 1055 Leon Cities of Lamego and Viseu are captured by Fernando I of León
 - 1064 Leon City of Coimbra is captured by Fernando I of León, extending Portuguese frontier
