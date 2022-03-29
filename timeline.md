@@ -127,7 +127,7 @@ Reconquista Timeline
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 1137 Portugal Treaty of Tuy, Count Alfonso Henriques swears fidelity to King Alfonso VII of León-Castile
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
-- 1143 Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent, vassal to León and Castile
+- 1143 Portugal Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent, vassal to León and Castile
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
 - 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
