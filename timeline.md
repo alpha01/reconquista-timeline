@@ -5,7 +5,7 @@ Reconquista Timeline
 - 702 ImportantEvents Witiza is elected King of the Visigoths
 - 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. Bypassing Visigothic customs, resulting in political unrest
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
-- 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat an Umayyad army
+- 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat invading Umayyad army
 - 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
 - 737 ImportantEvents Siege of Avignon, Charles Martel captures the city of Avignon in Provence
 - 737 ImportantEvents Siege of Narbonne, Charles Martel fails to capture Narbonne from the Umayyads
@@ -19,10 +19,10 @@ Reconquista Timeline
 - 793-794 ImportantEvents Cordoba launches successful military campaign against the Franks in Septimania
 - 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
 - 813 ImportantEvents St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
-- 02/1212 ImportantEvents Battle of Las Navas de Tolosa
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1157 ImportantEvents Order of Calatrava founded by St. Raymond of Fitero
 - 1170 ImportantEvents Order of Santiago founded by the Knights of Cáceres
+- 07/1212 ImportantEvents Battle of Las Navas de Tolosa, crusader army led by Alfonso VIII of Castile, Pedro II of Aragon and Sancho VI of Navarra defeat the Almohad Caliphate. Islamic hegemony in Spain comes to an end
 
 
 # Al-Andalus (711-1492)
@@ -125,7 +125,9 @@ Reconquista Timeline
 
 # Kingdom of Portugal (1128-1492)
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
+- 1137 Portugal Treaty of Tuy, Count Alfonso Henriques swears fidelity to King Alfonso VII of León-Castile
 - 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
+- 1143 Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent, vassal to León and Castile
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
 - 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
