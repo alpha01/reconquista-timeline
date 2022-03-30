@@ -35,6 +35,8 @@ Reconquista Timeline
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
 - 1157 Andalus Almohads recapture Almería from the Christians
 - 1212 Andalus After the crushing defeat at the Battle of Las Navas de Tolosa, Ibn Hud leads the rebellion against Almohad authority in Al-Andalus. Seizing control of all Al-Andalus with the exception of Valencia, which is governed by Zayyan ibn Mardanish
+- 1225 Andalus Zayd Abu Zayd, last Almohad governor of Valencia is exiled by Zayyan ibn Mardanish. Zayd Abu Zayd seeks alliance with Jaime I of Aragon and converts to Christianity
+
 
 # Kingdom of Asturias (722-910)
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
@@ -150,4 +152,11 @@ Reconquista Timeline
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
 - 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
 - 1184 Portugal Battle of Santarém, Portuguese and Leonese forces of Ferdinand II of León and Alfonso I of Portugal defeat the Almohads, Caliph Abu Yaqub Yusuf is killed in battle
- 
+- 1185-1211 Portugal Sancho I "El Fundador" becomes King of Portugal
+- 1211-1223 Portugal Alfonso II becomes King of Portugal
+- 1223-1248 Portugal Sancho II becomes King of Portugal
+- 1248-1279 Portugal Alfonso III becomes King of Portugal
+- 1279-1325 Portugal Dinis I becomes King of Portugal
+- 1325-1357 Portugal Alfonso IV becomes King of Portugal
+- 1357-1367 Portugal Pedro I becomes King of Portugal
+- 1367-1383 Portugal Fernando I becomes King of Portugal
