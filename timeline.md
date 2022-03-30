@@ -20,6 +20,7 @@ Reconquista Timeline
 - 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
 - 813 ImportantEvents St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
 - 1119 ImportantEvents Order of Solomon's Temple founded
+- 1110 ImportantEvents Ibn Tumart establishes the new Almohad religious and military Islamic movement in Africa
 - 1211 ImportantEvents After the fall of Salvatierra, Pope Innocent III declares upcoming military campaign against the Almohads as a crusade
 - 07/1212 ImportantEvents Battle of Las Navas de Tolosa, crusader army led by Alfonso VIII of Castile, Pedro II of Aragon and Sancho VI of Navarra defeat the Almohad Caliphate. Islamic hegemony in Spain comes to an end
 
@@ -54,6 +55,7 @@ Reconquista Timeline
 - 791 Asturias Bermudo I renounces Asturian crown after the defeat in the Battle of the Burbia River
 - 791-842 Asturias Alfonso II "El Casto" is elected King of Asturias
 - 797 Asturias Alfonso II sacks Lisbon
+- 824 Asturias Carta Puebla de Brañosera, the first fuero in Spain is created granting privileges to settlers
 - 842-850 Asturias Ramiro I
 - 850-866 Asturias Ordoño
 - 866-910 Asturias Alfonso III "El Magno"
@@ -65,16 +67,20 @@ Reconquista Timeline
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 - 1000-1035 Navarra Sancho III "El Mayor" becomes King of Navarra
 - 1035-1054 Navarra García Sánchez III "García el de Nájera" becomes King of Navarra
+- 1054 Navarra Sancho IV Garcés becomes King of Navarra after the death of his father Garcia III in the Battle of Atapuerca
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
 
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
 - 09/1037 Leon Battle of Tamarón, Castilian forces under Count Fernando I defeat the Leonese forces. King Bermudo III of León is killed in battle. With no heir to the Leonese crown, kingship is passed to his sister Sancha of León, wife to Fernando I of Castile, thus Fernando I becomes King of León
+- 09/1054 Leon Battle of Atapuerca, Fernando I of Leon defeats the amry of his brother Garcia III of Navarra. Castile annexes La Bureba and lands northereast of Burgos. King Garcia III of Navarra is killed in battle
 - 1055 Leon Fernando I becomes the first Christian monarch to impose "parias" tribute onto Muslim taifas
 - 1055 Leon Cities of Lamego and Viseu are captured by Fernando I of León
 - 1064 Leon City of Coimbra is captured by Fernando I of León, extending Portuguese frontier
+- 1065 Leon Upon his death, King Fernando I of León divides his realm into three kingdoms. Sancho II gets Castile, Alfonso VI gets León, and García II gets Galicia
 - 1065-1109 Leon Alfonso VI "El Bravo" becomes the King of León
+- 1065-1072 Leon García II becomes King of Galicia
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 - 1085 Leon Alfonso VI of León and Castile proclaims himself "Emperor of Spain"
 - 1087 Leon After the crushing defeat at the Battle of Sagrajas, Alfonso VII seeks cross-Pyrenees alliances. Marrying his daughters Urraca to Raimundo of Burgundy and Teresa to Enrique of Burgundy
@@ -86,7 +92,7 @@ Reconquista Timeline
 
 
 # Kingdom of Castile (1065-1230)
-- 05/1487-08/1487 Castilla Málaga is captured after a three month siege
+- 1065-1072 Castilla Sancho II "El Fuerte" becomes King of Castile. The County of Castile is elevated as kingdom after the death of Fernando I of León
 - 1157-1158 Castilla Sancho III "El Deseado" becomes King of Castile
 - 1157 Castilla Order of Calatrava founded by St. Raymond of Fitero
 - 1158-1214 Castilla Alfonso VIII "El de Las Navas" becomes King of Castile
@@ -104,6 +110,7 @@ Reconquista Timeline
 - 1244 CrownOfCastile Muslim lords of Murcia swear fidelity to Fernando III of Castile and León. Parias are imposed them
 - 1246 CrownOfCastile Jaén is captured by Fernando III
 - 1248 CrownOfCastile Sevilla is captured by Fernando III
+- 05/1487-08/1487 CrownOfCastile Málaga is captured after a three month siege
 - 01/1492 CrownOfCastile Granada, the final Muslim territory in Spain is captured bringing the end to the Reconquista
 
 
@@ -126,6 +133,8 @@ Reconquista Timeline
 - 1118 Aragon Alfonso I captures the city of Zaragoza with the aid of crusaders
 - 1120 Aragon Battle of Cutanda, Aragonese crusader victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
+- 1121 Aragon Alfonso I of Aragon establishes the first Spanish military order, The Confraternity of Belchite
+- 1125-1126 Aragon Alfoso I campaing to established a Christian principality in Granada fails. Caravan of 14,000 Mozoarabs(Andalusian Christians) follow Alfonso I back to Aragon
 - 1134 Aragon Alfonso I dies. Bequeaths the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher
 - 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King of Aragon
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
