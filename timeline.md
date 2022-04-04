@@ -53,7 +53,7 @@ Reconquista Timeline
 - 788-791 Asturias Bermudo I "El Diacono" is elected King of Asturias
 - 791 Asturias Bermudo I renounces Asturian crown after the defeat in the Battle of the Burbia River
 - 791-842 Asturias Alfonso II "El Casto" is elected King of Asturias
-- 797  Alfonso II sacks Lisbon
+- 797 Asturias Alfonso II sacks Lisbon
 - 813 Asturias St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
 - 824 Asturias Carta Puebla de Brañosera, the first fuero in Spain is created granting privileges to settlers
 - 842-850 Asturias Ramiro I
