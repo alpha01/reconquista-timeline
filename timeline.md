@@ -6,10 +6,10 @@ Reconquista Timeline
 - 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. Bypassing Visigothic customs, resulting in political unrest
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
 - 721 ImportantEvents Battle of Toulouse, Odo the Great's Aquitaine forces defeat invading Umayyad army
-- 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat an Umayyad army
+- 732 ImportantEvents Battle of Tours, Frankish commanders Charles Martel and Odo the Great defeat invading Umayyad army
 - 737 ImportantEvents Siege of Avignon, Charles Martel captures the city of Avignon in Provence
 - 737 ImportantEvents Siege of Narbonne, Charles Martel fails to capture Narbonne from the Umayyads
-- 737 ImportantEvents Battle of the River Berre, Charles Martel defeats Andalusian army sent to relieve the Siege of Narbonne in Septimania
+- 737 ImportantEvents Battle of the River Berre, Charles Martel defeats Al-Andalusian army sent to relieve the Siege of Narbonne in Septimania
 - 750 ImportantEvents Umayyad's get overthrown, Abbasid Caliphate established in Baghdad
 - 750 ImportantEvents Great plague affects all of Spain
 - 778 ImportantEvents Charlemagne crosses Pyrenees, fails to get fidelity from the Moors of Zaragoza, Girona, Barcelona and Huesca 
@@ -18,7 +18,6 @@ Reconquista Timeline
 - 792 ImportantEvents Battle of Lutos, Asturians defeat the Umayyad Cordovans
 - 793-794 ImportantEvents Cordoba launches successful military campaign against the Franks in Septimania
 - 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
-- 813 ImportantEvents St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1110 ImportantEvents Ibn Tumart establishes the new Almohad religious and military Islamic movement in Africa
 - 1211 ImportantEvents After the fall of Salvatierra, Pope Innocent III declares upcoming military campaign against the Almohads as a crusade
@@ -36,7 +35,7 @@ Reconquista Timeline
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
 - 1157 Andalus Almohads recapture Almería from the Christians
 - 1212 Andalus After the crushing defeat at the Battle of Las Navas de Tolosa, Ibn Hud leads the rebellion against Almohad authority in Al-Andalus. Seizing control of all Al-Andalus with the exception of Valencia, which is governed by Zayyan ibn Mardanish
-- 1225 Andalus Zayd Abu Zayd, last Almohad governor of Valencia is exiled by Zayyan ibn Mardanish. Zayd Abu Zayd seeks alliance with Jaime I of Aragon and converts to Christianity
+- 1225 Andalus Zayd Abu Zayd, last Almohad governor of Valencia is exiled by Zayyan ibn Mardanish. Zayd Abu Zayd seeks an alliance with Jaime I of Aragon and converts to Christianity
 
 
 # Kingdom of Asturias (722-910)
@@ -54,7 +53,8 @@ Reconquista Timeline
 - 788-791 Asturias Bermudo I "El Diacono" is elected King of Asturias
 - 791 Asturias Bermudo I renounces Asturian crown after the defeat in the Battle of the Burbia River
 - 791-842 Asturias Alfonso II "El Casto" is elected King of Asturias
-- 797 Asturias Alfonso II sacks Lisbon
+- 797  Alfonso II sacks Lisbon
+- 813 Asturias St. James The Apostle's tomb discovered in Galicia. Camino de Santiago is born, Alfonso II is the first pilgrim
 - 824 Asturias Carta Puebla de Brañosera, the first fuero in Spain is created granting privileges to settlers
 - 842-850 Asturias Ramiro I
 - 850-866 Asturias Ordoño
@@ -153,10 +153,10 @@ Reconquista Timeline
 
 # Kingdom of Portugal (1128-1492)
 - 1187 Portugal Teresa of Portugal and Enrique of Burgundy are given the County of Portugal as a fief under the Kingdom of León
-- 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
+- 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating the armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 1137 Portugal Treaty of Tuy, Count Alfonso Henriques swears fidelity to King Alfonso VII of León-Castile
-- 07/1139 Portugal Battle of Battle of Ourique, Crushing Portuguese victory. Five Moorish kings slained
-- 1143 Portugal Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent, vassal to León and Castile
+- 07/1139 Portugal Battle of Battle of Ourique, crushing Portuguese victory. Five Moorish kings slained
+- 1143 Portugal Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent kingdom, vassal to León and Castile
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
 - 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
