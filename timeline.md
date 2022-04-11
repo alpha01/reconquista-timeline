@@ -141,7 +141,7 @@ Reconquista Timeline
 - 1120 Aragon Battle of Cutanda, Aragonese crusader victory. Muslims fail to recapture Zaragoza
 - 1120 Aragon Alfonso I captures the city of Calatayud
 - 1121 Aragon Alfonso I of Aragon establishes the first Spanish military order, The Confraternity of Belchite
-- 1125-1126 Aragon Alfoso I campaing to established a Christian principality in Granada fails. Caravan of 14,000 Mozoarabs(Andalusian Christians) follow Alfonso I back to Aragon
+- 1125-1126 Aragon Alfoso I campaign to established a Christian principality in Granada fails. Caravan of 14,000 Mozarabs (Andalusian Christians) follow Alfonso I back to Aragon
 - 1134 Aragon Alfonso I dies. Bequeaths the kingdoms of Aragon and Navarra to the military orders: The Temple, Hospital, and Holy Sepulcher
 - 1137 Aragon Aragonese nobles elect Ramiro II "El Monje" as King of Aragon
 - 1136 Aragon Princess Petronila of Aragon is born, whose sole existence was to continue the line of Aragonese kings
