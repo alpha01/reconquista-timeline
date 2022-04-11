@@ -81,9 +81,13 @@ Reconquista Timeline
 - 1065 Leon Upon his death, King Fernando I of León divides his realm into three kingdoms. Sancho II gets Castile, Alfonso VI gets León, and García II gets Galicia
 - 1065-1109 Leon Alfonso VI "El Bravo" becomes the King of León
 - 1065-1072 Leon García II becomes King of Galicia
+- 1071 Leon Battle of Pedroso, Civil war in the Kingdom of Galicia. García II of Galicia defeats Nuno II Mendes, the last count of Portugal of the House of Vímara Peres.
+- 1071 Leon García II declares himself King of Portugal, becoming the first to monarch to do so
+- 1072 Leon Brothers Sancho II of Castile and Alfonso VI of León conspire against García II of Galicia, exiling to Sevilla. The shortlived Galicia / Portugal kingdom is partitioned among both kings
+- 1072 Leon Battle of Golpejera, Sancho II of Castile defeats Alfonso VI of León, seizing the Leonese crown. Military victory attributed to Rodrigo Díaz de Vivar "El Cid". Alfonso VI is exihiled to the taifa of Toledo
 - 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
 - 1085 Leon Alfonso VI of León and Castile proclaims himself "Emperor of Spain"
-- 1087 Leon After the crushing defeat at the Battle of Sagrajas, Alfonso VII seeks cross-Pyrenees alliances. Marrying his daughters Urraca to Raimundo of Burgundy and Teresa to Enrique of Burgundy
+- 1087 Leon After the crushing defeat at the Battle of Sagrajas, Alfonso VII seeks cross-Pyrenees alliances. Marrying his daughters Urraca to Raimundo of Burgundy, Teresa to Enrique of Burgundy, and Elvira to Count Raymond VI of Toulouse
 - 10/1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of Catalan and Genoese crusaders
 - 1157 Leon Alfonso VII fails to prevent Almería captulation to the Almohads. Alfonso VII dies while returning back to Tolendo. Kingdom is devided between two sons, Sancho III of Castile and Fernando II of León
 - 1157-1888 Leon Fernando II becomes King of León
@@ -93,6 +97,7 @@ Reconquista Timeline
 
 # Kingdom of Castile (1065-1230)
 - 1065-1072 Castilla Sancho II "El Fuerte" becomes King of Castile. The County of Castile is elevated as kingdom after the death of Fernando I of León
+- 1068 Castilla War of the Three Sanchos Sancho II of Castile defeats the colaition of Sancho IV of Navarre, and Sancho Ramírez of Aragon, annexing the lands of La Bureba, Montes de Oca and Pancorbo
 - 1157-1158 Castilla Sancho III "El Deseado" becomes King of Castile
 - 1157 Castilla Order of Calatrava founded by St. Raymond of Fitero
 - 1158-1214 Castilla Alfonso VIII "El de Las Navas" becomes King of Castile
