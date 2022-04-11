@@ -85,9 +85,11 @@ Reconquista Timeline
 - 1071 Leon García II declares himself King of Portugal, becoming the first to monarch to do so
 - 1072 Leon Brothers Sancho II of Castile and Alfonso VI of León conspire against García II of Galicia, exiling to Sevilla. The shortlived Galicia / Portugal kingdom is partitioned among both kings
 - 1072 Leon Battle of Golpejera, Sancho II of Castile defeats Alfonso VI of León, seizing the Leonese crown. Military victory attributed to Rodrigo Díaz de Vivar "El Cid". Alfonso VI is exihiled to the taifa of Toledo
-- 1085 Leon Alfonso VI of León and Castile captures the important city of Toledo
+- 1085 Leon After a mocked siege, Alfonso VI of León and Castile captures the important city of Toledo. Pact was made between the Moorish king Al-Qadir to rule Valencia in exchange for Toledo
 - 1085 Leon Alfonso VI of León and Castile proclaims himself "Emperor of Spain"
 - 1087 Leon After the crushing defeat at the Battle of Sagrajas, Alfonso VII seeks cross-Pyrenees alliances. Marrying his daughters Urraca to Raimundo of Burgundy, Teresa to Enrique of Burgundy, and Elvira to Count Raymond VI of Toulouse
+- 1108 Leon Battle of Uclés, Almoravid victory over Castilian and Leonese forces. Seven Leonese and Castilian counts killed in battle. Leonese-Castilian prince (only male heir) Sancho Alfónsez was killed seeking refuge in the Muslim city of Belinchón
+- 1109 Leon Urraca "La Temeraria" becomes of queen of León, Castile, and Galicia after the death of her father Alfonso VI
 - 10/1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of Catalan and Genoese crusaders
 - 1157 Leon Alfonso VII fails to prevent Almería captulation to the Almohads. Alfonso VII dies while returning back to Tolendo. Kingdom is devided between two sons, Sancho III of Castile and Fernando II of León
 - 1157-1888 Leon Fernando II becomes King of León
@@ -131,7 +133,7 @@ Reconquista Timeline
 # Kingdom of Aragon (1035-1165)
 - 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
 - 1063-1094 Aragon Sancho I Ramirez becomes King of Aragon
-- 1094-1104 Aragon Pedro I becomes King of Aragon
+- 1094-1104 Aragon Pedro I becomes King of Aragon, after the death of his father Sancho I during the seige of Huesca
 - 1096 Aragon Huesca is captured by Pedro I
 - 1104-1134 Aragon Alfonso I "El Batallador" becomes King of Aragon
 - 1109 Aragon Alfonso I marries widowed queen Urraca of León. First attempt to politically unify the Spanish Christian reamls fail due to the "incopatibility" between the pair
