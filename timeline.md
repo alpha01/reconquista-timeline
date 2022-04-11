@@ -101,7 +101,7 @@ Reconquista Timeline
 - 1065-1072 Castilla Sancho II "El Fuerte" becomes King of Castile. The County of Castile is elevated as kingdom after the death of Fernando I of León
 - 1068 Castilla War of the Three Sanchos Sancho II of Castile defeats the colaition of Sancho IV of Navarre, and Sancho Ramírez of Aragon, annexing the lands of La Bureba, Montes de Oca and Pancorbo
 - 1157-1158 Castilla Sancho III "El Deseado" becomes King of Castile
-- 1157 Castilla Order of Calatrava founded by St. Raymond of Fitero
+- 1157 Castilla The Knights Templar request Sancho III to relieve them from their stewardship of the fortress of Calatrava. Stewardship is passed to Father Diego Velásquez and cistercian monk Raimundo de Fitero. The clerics recruited a large warrior monk army within Navarra and Castile, giving birth to The Order of Calatrava
 - 1158-1214 Castilla Alfonso VIII "El de Las Navas" becomes King of Castile
 - 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
 
