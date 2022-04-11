@@ -1,4 +1,6 @@
-# Reconquista Timeline ![Cruz de Santiago](./images/Santiago.png)
+# Reconquista Timeline
+
+![Order of Solomon's Temple](./images/templar.png) ![Order of Aviz](./images/aviz.png) ![Order of Santiago](./images/Santiago.png) ![Order of Calatrava](./images/calatrava.png) ![Order of Alcántara](./images/alcantara.png) ![Order of Montesa](./images/montesa.png)
 
 
 This app is a small forked version of [cheeaun/life](https://github.com/cheeaun/life). It uses the same configuration, with additional mandatory fields needed for [custom event styling](./timeline.css).
