@@ -34,7 +34,7 @@ Reconquista Timeline
 - 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
-- 1145 Andalus Almorovid Emir Tashufin ibn 'Alî is dispossessed, bringing an end to Almoravid rule in Al-Andalus
+- 1145 Andalus Almoravid Emir Tashufin ibn 'Alî is dispossessed, bringing an end to Almoravid rule in Al-Andalus
 - 1157 Andalus Almohads recapture Almería from the Christians
 - 1212 Andalus After the crushing defeat at the Battle of Las Navas de Tolosa, Ibn Hud leads the rebellion against Almohad authority in Al-Andalus. Seizing control of all Al-Andalus with the exception of Valencia, which is governed by Zayyan ibn Mardanish
 - 1225 Andalus Zayd Abu Zayd, last Almohad governor of Valencia is exiled by Zayyan ibn Mardanish. Zayd Abu Zayd seeks an alliance with Jaime I of Aragon and converts to Christianity
