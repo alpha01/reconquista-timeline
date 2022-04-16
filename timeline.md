@@ -20,6 +20,7 @@ Reconquista Timeline
 - 800 ImportantEvents Charlemagne is crowned as “Emperor of the Romans” by Pope Leo III
 - 1119 ImportantEvents Order of Solomon's Temple founded
 - 1110 ImportantEvents Ibn Tumart establishes the new Almohad religious and military Islamic movement in Africa
+- 1130 ImportantEvents Abd al-Mu'min declares himself caliph of the Almohads
 - 1211 ImportantEvents After the fall of Salvatierra, Pope Innocent III declares upcoming military campaign against the Almohads as a crusade
 - 07/1212 ImportantEvents Battle of Las Navas de Tolosa, crusader army led by Alfonso VIII of Castile, Pedro II of Aragon and Sancho VI of Navarra defeat the Almohad Caliphate. Islamic hegemony in Spain comes to an end
 
@@ -33,6 +34,7 @@ Reconquista Timeline
 - 1031 Andalus Hisham III is exiled Córdoba. Caliphate dissolves into numerous Muslim petty kingdoms known as "taifas"
 - 1086 Andalus Almoravids enter the Iberian Peninsula
 - 1086 Andalus Battle of Sagrajas, crushing Almoravid victory over Alfonso VI of León and Castile. Almoravids swallowed the majority of the Muslim taifas, unifying Islamic Spain once again
+- 1145 Andalus Almorovid Emir Tashufin ibn 'Alî is dispossessed, bringing an end to Almoravid rule in Al-Andalus
 - 1157 Andalus Almohads recapture Almería from the Christians
 - 1212 Andalus After the crushing defeat at the Battle of Las Navas de Tolosa, Ibn Hud leads the rebellion against Almohad authority in Al-Andalus. Seizing control of all Al-Andalus with the exception of Valencia, which is governed by Zayyan ibn Mardanish
 - 1225 Andalus Zayd Abu Zayd, last Almohad governor of Valencia is exiled by Zayyan ibn Mardanish. Zayd Abu Zayd seeks an alliance with Jaime I of Aragon and converts to Christianity
