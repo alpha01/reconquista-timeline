@@ -20,7 +20,7 @@ Resources
 * [The Latin Chronicle of the Kings of Castile](https://www.amazon.com/Chronicle-Castile-Medieval-Renaissance-Studies/dp/0866982787)
 * [The World of El Cid: Chronicles of the Spanish Reconquest](https://www.amazon.com/world-Cid-Chronicles-Reconquest-Manchester/dp/0719052262)
 * [El Cid: The Making of a Legend](https://www.amazon.com/El-Cid-Making-M-Trow/dp/0750939095)
-* [The Book of Deeds of James I of Aragon: A Translation of the Medieval Catalan Llibre dels Fets](https://www.amazon.com/Deeds-James-Aragon-Crusade-Translation/dp/1409401502)
+* [The Book of Deeds of James I of Aragon](https://www.amazon.com/Deeds-James-Aragon-Crusade-Translation/dp/1409401502)
 * [The Crusader Kingdom of Valencia](https://libro.uca.edu/ck/crusader.htm)
 * [Saint Fernando III: A Kingdom for Christ](https://www.amazon.com/Saint-Fernando-III-Kingdom-Christ/dp/0979630118)
 * [The life of the very noble King of Castile and León, Saint Ferdinand III](https://www.amazon.com/Life-Very-Noble-Castile-Ferdinand/dp/1877905097)
