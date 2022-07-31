@@ -2,6 +2,7 @@ Reconquista Timeline
 ===============
 
 # Important Events
+
 - 702 ImportantEvents Witiza is elected King of the Visigoths
 - 710 ImportantEvents Witiza dies, but before passing away he inherits the crown to his son Agila. Bypassing Visigothic customs, resulting in political unrest
 - 711 ImportantEvents Battle of Guadalete, Visigothic crushing defeat. King Rodrigo killed in battle
@@ -26,6 +27,7 @@ Reconquista Timeline
 
 
 # Al-Andalus (711-1492)
+
 - 714 Andalus Umayyad conquest of Hispania, city of Toledo falls.
 - 740 Andalus Civil war in Al-Andalus, Muslim garrisons abandoned Northern outposts
 - 756-929 Andalus Emirate of Córdoba established by exiled Umayyad prince Abd al-Rahman I
@@ -41,6 +43,7 @@ Reconquista Timeline
 
 
 # Kingdom of Asturias (722-910)
+
 - 722 Asturias Battle of Covadonga, combined forces of Pelayo and Pedro de Cantabria defeat Umayyad forces
 - 722-737 Asturias Pelayo is elected King of Asturias. New kingdom is established with its capital seat in Cangas de Onís
 - 737-739 Asturias Favila is elected King of Asturias
@@ -65,14 +68,17 @@ Reconquista Timeline
 
 
 # Kingdom of Pamplona / Najera / Navarra (824-1492)
+
 - 816 Navarra Battle of Rio Orion, Muslim victory after thirteen days of battle. Military lost results in political victory for the Iñigo's over the Velasco's
 - 824-851 Navarra Íñigo Arista becomes the first King of Pamplona
 - 1000-1035 Navarra Sancho III "El Mayor" becomes King of Navarra
 - 1035-1054 Navarra García Sánchez III "García el de Nájera" becomes King of Navarra
 - 1054 Navarra Sancho IV Garcés becomes King of Navarra after the death of his father Garcia III in the Battle of Atapuerca
 - 1134 Navarra Navarrese nobles elect García Ramírez "El Restaurador" as King of Navarra after the death of Alfonso "El Batallador"
+- 1196 Navarra Sancho VII of Navarra commits to alliance with the Leonese and Almohads to attack Castillian lands.
 
 # Kingdom of Leon / Galicia (910-1230) / County of Castile and Portugal
+
 - 934 Leon Battle of Simancas, Ramiro II army is victorious. Caliph Abd al-Rahman III orders the execution of his defeated commanders
 - 1035-1065 Leon Fernando I "El Magno" inherits the County of Castile from his father Sancho III of Navarra
 - 09/1037 Leon Battle of Tamarón, Castilian forces under Count Fernando I defeat the Leonese forces. King Bermudo III of León is killed in battle. With no heir to the Leonese crown, kingship is passed to his sister Sancha of León, wife to Fernando I of Castile, thus Fernando I becomes King of León
@@ -95,20 +101,25 @@ Reconquista Timeline
 - 10/1147 Leon Siege of Almería, city is captured by Alfonso VII with the aid of Catalan and Genoese crusaders
 - 1157 Leon Alfonso VII fails to prevent Almería captulation to the Almohads. Alfonso VII dies while returning back to Tolendo. Kingdom is devided between two sons, Sancho III of Castile and Fernando II of León
 - 1157-1888 Leon Fernando II becomes King of León
+- 1158 Leon Treaty of Sahagún, Agreement between Fernando II of León and Sancho of Castilla "boni fratres et boni amici" (good brothers and good friends) where both agreed to partition the Kingdom of Portugal and An-Andalus upon a future conquest, in addition agreement was made where the brother's were to inherit each others kingdom.
 - 1170 Leon Order of Santiago founded by the Knights of Cáceres
+- 1196 Leon After failing to receive frontier fortreses from Alfonso VIII of Castilla, Alfonso IX of León enters an alliance with Almohads to wage war upon The Kingdom of Castile.
 - 1187-1230 Leon Alfonso IX becomes King of León
 
 
 # Kingdom of Castile (1065-1230)
+
 - 1065-1072 Castilla Sancho II "El Fuerte" becomes King of Castile. The County of Castile is elevated as kingdom after the death of Fernando I of León
 - 1068 Castilla War of the Three Sanchos Sancho II of Castile defeats the colaition of Sancho IV of Navarre, and Sancho Ramírez of Aragon, annexing the lands of La Bureba, Montes de Oca and Pancorbo
 - 1157-1158 Castilla Sancho III "El Deseado" becomes King of Castile
 - 1157 Castilla The Knights Templar request Sancho III to relieve them from their stewardship of the fortress of Calatrava. Stewardship is passed to Father Diego Velásquez and cistercian monk Raimundo de Fitero. The clerics recruited a large warrior monk army within Navarra and Castile, giving birth to The Order of Calatrava
 - 1158-1214 Castilla Alfonso VIII "El de Las Navas" becomes King of Castile
-- 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate
+- 07/1195 Castilla Battle of Alarcos, Christian forces under Alfonso VIII of Castile suffer catastrophic defeat by Almohad Caliphate. Almohads capture all major fronteir fortrases belonging to the Order of Calatrava.
+- 1196 Castilla Alfonso VIII of Castilla and Pedro II of Aragon enter an alliance to attack the Kingdoms of León and Navarra.
 
 
 # Crown of Castile (1230-1492)
+
 - 1252-1284 CrownOfCastile Alfonso X "El Sabio" becomes King of Castile and León
 - 1284-1292 CrownOfCastile Sancho IV becomes King of Castile and León
 - 1292-1312 CrownOfCastile Fernando IV becomes King of Castile and León
@@ -124,6 +135,7 @@ Reconquista Timeline
 
 
 # Catalan Counties (?-1165)
+
 - 785 Catalonia Charlemagne captures the city of Girona
 - 801 Catalonia Louis the Pious captures the city of Barcelona
 - 1035-1076 Catalonia Ramon Berenguer I becomes Count of Barcelona
@@ -133,6 +145,7 @@ Reconquista Timeline
 
 
 # Kingdom of Aragon (1035-1165)
+
 - 1035-1063 Aragon Illegitimate son of Sancho III of Navarra, Ramiro I of Aragon inherits the County of Aragon from his father. Ramiro I of Aragon would elevate his realm into a full independent kingdom.
 - 1063-1094 Aragon Sancho I Ramirez becomes King of Aragon
 - 1094-1104 Aragon Pedro I becomes King of Aragon, after the death of his father Sancho I during the seige of Huesca
@@ -152,6 +165,7 @@ Reconquista Timeline
 
 
 # Crown of Aragon (1165-1492)
+
 - 1162-1196 CrownOfAragon Son of Petronila of Aragon and Ramon Berenguer IV of Barcelona, Alfonso II "El Trovador" becomes King of Aragon and Count of Barcelona. The Crown of Aragon is born
 - 1196-1213 CrownOfAragon Pedro II "El Catolico" becomes King of Aragon
 - 1213-1276 CrownOfAragon Jaime I "El Conquistador" becomes King of Aragon
@@ -161,6 +175,7 @@ Reconquista Timeline
 - 1232 CrownOfAragon Hugo de Follalquer, Grandmaster of the Knights Hospitaller in Aragon convinces Jaime I to conquer the Kingdom of Valencia. Crusade to conquer Valencia begin
 
 # Kingdom of Portugal (1128-1492)
+
 - 1187 Portugal Teresa of Portugal and Enrique of Burgundy are given the County of Portugal as a fief under the Kingdom of León
 - 1128 Portugal Battle of São Mamede, Alfonso Henriques secures Portuguese countship after defeating the armies of his mother Teresa of Portugal and her lover Count Fernando Pérez de Traba
 - 1137 Portugal Treaty of Tuy, Count Alfonso Henriques swears fidelity to King Alfonso VII of León-Castile
@@ -168,6 +183,9 @@ Reconquista Timeline
 - 1143 Portugal Treaty of Zamora, Alfonso VII of León and Castile recognizes Portugal as an independent kingdom, vassal to León and Castile
 - 1139-1185 Portugal Alfonso I "El Conquistador" becomes the first King of Portugal
 - 11/1147 Portugal Alfonso I captures the important city of Lisbon with the aid of English crusaders
+- 1165-1169 Portugal Geraldo Geraldes "Sem Pavor" Seises fortresses in the zone between the TAhus and the Guadiana rivers: Évora, Trujillo, Cáceres, Montánches, Serpa, and Juromenha.
+- 05/1169 Portugal Geraldo Geraldes "Sem Pavor" Failed attempt to conquer Badajoz due to Alhmohad and Leonese alliance. Both Geraldo Geraldes and Alfonso I of Portugual were captured by Leonese troops. Portugal was forced to handover the newly conquered cities to León.
+- 1174 Portugal Geraldo Geraldes "Sem Pavor" defected to the Almohads, who beheaded him on suspicion of conspiring with Alfonso I of Portugal to conquer Ceuta.
 - 1179 Portugal Pope Alexander III officially recognizes Portugal as an independent kingdom
 - 1184 Portugal Battle of Santarém, Portuguese and Leonese forces of Ferdinand II of León and Alfonso I of Portugal defeat the Almohads, Caliph Abu Yaqub Yusuf is killed in battle
 - 1185-1211 Portugal Sancho I "El Fundador" becomes King of Portugal
